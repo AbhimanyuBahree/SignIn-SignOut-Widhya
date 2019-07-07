@@ -1,7 +1,7 @@
 from flask import Flask, render_template, flash, request, redirect, url_for, session
 import sendgrid
 import os
-import pymongo
+#import pymongo
 import dns
 from forms import *
 #from flask_mongoalchemy import MongoAlchemy
